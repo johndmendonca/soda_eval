@@ -1,14 +1,14 @@
 # Official repository for the [paper](https://arxiv.org/abs/2407.11660): *"Soda-Eval: Open-Domain Dialogue Evaluation in the age of LLMs"*
 
 ```
-@misc{,
+@misc{mendonça2024sodaevalopendomaindialogueevaluation,
       title={Soda-Eval: Open-Domain Dialogue Evaluation in the age of LLMs}, 
       author={John Mendonça and Isabel Trancoso and Alon Lavie},
       year={2024},
-      eprint={},
+      eprint={2408.10902},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={https://arxiv.org/abs/}, 
+      url={https://arxiv.org/abs/2408.10902}, 
 }
 ```
 
