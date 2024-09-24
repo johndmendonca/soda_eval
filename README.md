@@ -1,4 +1,4 @@
-# Official repository for the [paper](https://arxiv.org/abs/2407.11660): *"Soda-Eval: Open-Domain Dialogue Evaluation in the age of LLMs"*
+# Official repository for the EMNLP (findings) [paper](https://arxiv.org/abs/2407.11660): *"Soda-Eval: Open-Domain Dialogue Evaluation in the age of LLMs"*
 
 ```
 @misc{mendonça2024sodaevalopendomaindialogueevaluation,
