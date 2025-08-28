@@ -1,14 +1,22 @@
 # Official repository for the EMNLP (findings) [paper](https://arxiv.org/abs/2408.10902): *"Soda-Eval: Open-Domain Dialogue Evaluation in the age of LLMs"*
 
 ```
-@misc{mendonça2024sodaevalopendomaindialogueevaluation,
-      title={Soda-Eval: Open-Domain Dialogue Evaluation in the age of LLMs}, 
-      author={John Mendonça and Isabel Trancoso and Alon Lavie},
-      year={2024},
-      eprint={2408.10902},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2408.10902}, 
+@inproceedings{mendonca-etal-2024-soda,
+    title = "Soda-Eval: Open-Domain Dialogue Evaluation in the age of {LLM}s",
+    author = "Mendon{\c{c}}a, John  and
+      Trancoso, Isabel  and
+      Lavie, Alon",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-emnlp.684/",
+    doi = "10.18653/v1/2024.findings-emnlp.684",
+    pages = "11687--11708",
 }
 ```
 
